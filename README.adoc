@@ -1,5 +1,4 @@
 = Testcontainers Spring Boot
------------------ Test ---
 
 https://codecov.io/gh/PlaytikaOSS/testcontainers-spring-boot[image:https://codecov.io/gh/PlaytikaOSS/testcontainers-spring-boot/graph/badge.svg?token=9E0VBFIB5B[codecov]]
 https://maven-badges.sml.io/sonatype-central/com.playtika.testcontainers/testcontainers-spring-boot[image:https://maven-badges.sml.io/sonatype-central/com.playtika.testcontainers/testcontainers-spring-boot/badge.svg[Sonatype Central]]
@@ -380,4 +379,4 @@ embedded:
 ** mailto:sstus@playtika.com[sstus@playtika.com]
 ** mailto:iyova@playtika.com[iyova@playtika.com]
 ** mailto:admitrov@playtika.com[admitrov@playtika.com]
-** mailto:rkvasnytskyi@playtika.com[rkvasnytskyi@playtika.com]
+** mailto:rkvasnytskyi@playtika.com[rkvasnytskyi@playtika.com]  
